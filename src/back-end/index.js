@@ -1,0 +1,12 @@
+export {default as Products}  from "./pages/Product";
+export {default as User} from "./pages/User";
+export {default as Show} from "./pages/Show";
+export {default as EditUser} from "./pages/EditUser";
+export {default as AddProduct} from "./pages/AddProduct";
+export {default as AddCategory} from "./pages/AddCategory";
+export {default as AddItem} from "./pages/AddItem";
+export {default as EditItem} from "./pages/EditItem";
+export {default as Seller} from "./pages/Seller";
+export {default as Order} from "./pages/Order";
+export {default as DashHome} from "./pages/DashHome";
+export {default as CreatUser} from "./pages/CreatUser";
